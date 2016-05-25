@@ -24,6 +24,7 @@ The Git workflow has been configured using the `deploy script`.
 5. Once you are happy with the results, `Ctrl+C` and `rm -rf public` (this can always be regenerated with `hugo -t <yourtheme>`)
 6. `git submodule add -b master git@github.com:mragsac/mragsac.github.io.git public`
 7. Almost done: add a `deploy.sh` script to help you (and make it executable: `chmod +x deploy.sh`)
+
 --------
 
 In order to deploy, always run `bash deploy.sh "<commit message>"` to get the personal page running at `http://mragsac.github.io`!

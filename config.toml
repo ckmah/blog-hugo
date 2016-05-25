@@ -1,5 +1,5 @@
 baseurl = "http://mragsac.github.io"
-title = "Michelle Ragsac"
+title = "mira"
 # the number of posts on a page
 paginate = 10   
 
@@ -26,12 +26,11 @@ publishdir = "public"
     author = "<authorname>"
 
     # copyright text; used in footer
-    copyright = "2016 ~ Michelle Ragsac"
+    copyright = "2016 Michelle Ragsac"
 
     # social links, used in footer, these must be full URLs.
     # twitter     = "https://twitter.com/<username>"
     github      = "https://github.com/mragsac"
-    # instagram 	= "https://instagram.com/isoforms"
     # facebook    = "https://www.facebook.com/<username>"
     # delicious   = "https://delicious.com/<username>"
     linkedin    = "https://www.linkedin.com/in/michelleragsac"
@@ -46,18 +45,31 @@ publishdir = "public"
     home_navbar_link = "Home"
 
     # name of the link to the blog page
-    blog_navbar_link = "Blog"
-
-    # name of the header used in the post list page
-    posts_list_header = "Posts"
+    blog_navbar_link = "Posts"
 
     # used date format
     # month.date.year
     date_format = '01.02.2006'
 
+# aditional menu items
+[menu]
+    [[menu.main]]
+    # about page
+    identifier = "about"
+    name = "About"
+    url = "/page/about"
+    weight = 0
+
+    [[menu.main]]
+    # links to resume
+    identifier = "resume"
+    name = "Resume"
+    url = "http://mragsac.github.io/docs/michelleRagsac_resume.pdf"
+    weight = 1
+
 [params.theme]
     inverse = false     # indicating if the theme should use inversed colors
-    name = "cosmo"   # name of the theme to use
+    name = "paper"   # name of the theme to use
 
     # list of possible theme names that can be used
     # name = "cerulean"
