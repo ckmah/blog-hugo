@@ -1,7 +1,7 @@
 baseurl = "http://mragsac.github.io"
-title = "mira"
+title = "Michelle Ragsac"
 # the number of posts on a page
-paginate = 10   
+paginate = 10
 
 # theme:
 # https://github.com/mpas/hugo-multi-bootswatch
@@ -23,7 +23,7 @@ publishdir = "public"
     languagecode = "en-US"
 
     # name of the site author; used in header meta information
-    author = "<authorname>"
+    author = "Michelle Ragsac"
 
     # copyright text; used in footer
     copyright = "2016 Michelle Ragsac"
@@ -69,7 +69,7 @@ publishdir = "public"
 
 [params.theme]
     inverse = false     # indicating if the theme should use inversed colors
-    name = "paper"   # name of the theme to use
+    name = "cosmo"   # name of the theme to use
 
     # list of possible theme names that can be used
     # name = "cerulean"
