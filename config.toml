@@ -6,6 +6,7 @@ paginate = 10
 # theme:
 # https://github.com/mpas/hugo-multi-bootswatch
 
+googleAnalytics = "UA-79217054-1"
 publishdir = "public"
 
 [permalinks]
