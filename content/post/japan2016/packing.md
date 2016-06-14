@@ -2,7 +2,7 @@
 date = "2016-06-13T11:15:25-07:00"
 draft = false
 title = "Osaka 2016: Finalizing the Packing!"
-tags = ["Study Abroad", "School", "Japan Summer EAP", "Osaka", "Sony ILCE-A6000"]
+tags = ["Study Abroad", "School", "Japan Summer EAP", "Osaka"]
 categories = ["Study Abroad", "School"]
 +++
 
