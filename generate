@@ -5,4 +5,4 @@ cd ~/Desktop/blog-hugo/
 
 # runs the server command to show the site at localhost:1313
 open http://localhost:1313/
-hugo server --theme=hugo-multi-bootswatch 
+hugo server -D --theme=hugo-multi-bootswatch 
