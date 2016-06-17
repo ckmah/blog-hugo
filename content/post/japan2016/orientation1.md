@@ -38,7 +38,7 @@ While taking the **Osaka Monorail**, I travelled from the **Osaka Airport** to *
 
 <img src="/img/japan2016/02_monorailmap.png" alt="Osaka Monorail Map" style="max-width: 100%; flexbox;"/>
 
-> A map of the **Osaka Monorail** train lines! The times between each station are very accurate, and there are automated announcements that are made on the train if the upcoming stop is a transfer station, etc.
+A map of the **Osaka Monorail** train lines! The times between each station are very accurate, and there are automated announcements that are made on the train if the upcoming stop is a transfer station, etc.
 
 ---
 
@@ -58,13 +58,13 @@ To get around everywhere, I've been using **maps.me** (with my phone in `Airplan
 
 <img src="/img/japan2016/02_pathway1.JPG" alt="Pathway to Minoh, Picture #1" style="max-width: 100%; flexbox;"/>
 
-> Something that I really love about this area is that it's packed with greenery! Then again, it is raining a lot. There's moss at every corner, and trees everywhere! I also appreciate the humidity---my skin is so happy and hydrated, compared to how dry it is in the States.
+Something that I really love about this area is that it's packed with greenery! Then again, it is raining a lot. There's moss at every corner, and trees everywhere! I also appreciate the humidity---my skin is so happy and hydrated, compared to how dry it is in the States.
 
 ---
 
 <img src="/img/japan2016/02_minohmap.JPG" alt="Map of OsakaU's Minoh Campus" style="max-width: 100%; flexbox;"/>
 
-> A map of the Osaka University Minoh Campus that was posted outside the entrance I was supposed to take.
+A map of the Osaka University Minoh Campus that was posted outside the entrance I was supposed to take.
 
 ---
 
