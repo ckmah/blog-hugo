@@ -1,7 +1,7 @@
 +++
 date = "2016-06-19T06:15:06+09:00"
-draft = true
-title = "Osaka 2016: Adventures at the Umeda Station"
+draft = false
+title = "Osaka 2016: Adventures at Umeda Station"
 tags = ["Study Abroad", "School", "Japan Summer EAP", "Osaka", "Internship"]
 categories = ["Study Abroad", "School"]
 +++

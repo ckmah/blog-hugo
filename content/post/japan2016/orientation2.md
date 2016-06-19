@@ -1,6 +1,6 @@
 +++
 date = "2016-06-17T08:21:33+09:00"
-draft = true
+draft = false
 title = "Osaka 2016: Orientation Day 2"
 tags = ["Study Abroad", "School", "Japan Summer EAP", "Osaka", "Internship"]
 categories = ["Study Abroad", "School"]
