@@ -1,8 +1,8 @@
 +++
 date = "2016-06-29T16:28:31+09:00"
 draft = false
-title = "Osaka 2016: Cal@Osaka, Kinosakionsen"
-tags = ["Study Abroad", "School", "Japan Summer EAP", "Osaka", "Internship", "Dotonburi"]
+title = "Osaka 2016: Cal@Osaka, Kinosakionsen Part I"
+tags = ["Study Abroad", "School", "Japan Summer EAP", "Osaka", "Internship", "Kinosaki"]
 categories = ["Study Abroad", "School"]
 +++
 
